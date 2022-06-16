@@ -12,7 +12,7 @@
 > * 访问服务器时间：5s
 > * 所有访问均成功
 
-![图片](./test.jpg[^./resouces/images/]) 
+![图片](./test.png[^./resouces/images/]) 
 
 ## 不足
 * 定时器
