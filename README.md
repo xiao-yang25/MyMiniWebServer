@@ -1,4 +1,4 @@
-# MyPoorWebServer
+# MyMiniWebServer
 
 ## Linux下最基础的Web服务器。
 
